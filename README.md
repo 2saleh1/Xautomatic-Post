@@ -35,9 +35,13 @@ You need the following API credentials from Twitter Developer Portal:
 ### **2️⃣ Add Your API Keys**
 Open PostBOT.py and replace the empty strings with your Twitter API credentials:
 consumer_key = "your_api_key"
+
 consumer_secret = "your_api_key_secret"
+
 bearer_token = "your_bearer_token"
+
 access_token = "your_access_token"
+
 access_token_secret = "your_access_token_secret"
 
 ##▶️ Usage
