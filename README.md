@@ -1,10 +1,21 @@
-# Xautomatic-Post
+# 🚀 Xautomatic-Post  
+A simple Python bot that automatically posts tweets at regular intervals using the **Twitter API** and the **Tweepy** library.
 
-At first :
-you need your  API_Key , API_Key_Secret , Bearer_token , Access_Token , Access_Token_Secret
-If you don't have them, you can request them here https://developer.x.com/en
+---
 
-Tweepy package is required:
-in cmd command type: pip install tweepy
+## 📌 Features  
+✅ Automatically tweets every **5 minutes**  
+✅ Uses a **random phrase** from a predefined list  
+✅ Twitter API integration with OAuth2  
+✅ Simple and lightweight script  
 
-that's all :)
+---
+
+## 🔧 Installation  
+
+### **1️⃣ Clone the Repository**  
+```bash
+git clone https://github.com/2saleh1/Xautomatic-Post.git
+cd Xautomatic-Post
+```
+### **2️⃣ Install Dependencies**  
